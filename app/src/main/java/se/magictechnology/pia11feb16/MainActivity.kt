@@ -3,7 +3,7 @@ package se.magictechnology.pia11feb16
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-// Ändrat lite
+// Ändrat på webb
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
