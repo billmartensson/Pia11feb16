@@ -5,6 +5,8 @@ import android.os.Bundle
 
 // Ändrat i android studio
 
+// Nu kodar vi lite dev
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
