@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pia11feb16</string>
+
+    <string name="finrubrik">Welcome</string>
+    <string name="fruit">Fruit</string>
+
 </resources>
