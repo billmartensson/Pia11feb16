@@ -15,4 +15,8 @@ class MainActivity : AppCompatActivity() {
 
         // Bill kodar kod
     }
+
+    fun skalabild() {
+        // Oj oj oj
+    }
 }
